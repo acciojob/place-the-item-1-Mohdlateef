@@ -1,2 +1,20 @@
-
+holder{
+	display:flex;
+	justify-content:space-between;
+}
+#thi{
+	width:100px;
+	height:100px;
+	background-color:green;
+}
+#fir{
+	width:100px;
+	height:100px;
+	background-color:red;
+}
+#sec{
+	width:100px;
+	height:100px;
+	background-color:blue;
+}
 /* Your CSS Code here. */
