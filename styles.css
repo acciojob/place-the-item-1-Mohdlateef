@@ -1,6 +1,7 @@
-holder{
+.holder{
 	display:flex;
 	justify-content:space-between;
+	flex-wrap:wrap;
 }
 #thi{
 	width:100px;
@@ -16,5 +17,9 @@ holder{
 	width:100px;
 	height:100px;
 	background-color:blue;
+}
+.item{
+	display:flex;
+	flex-wrap:wrap;
 }
 /* Your CSS Code here. */
